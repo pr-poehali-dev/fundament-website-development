@@ -1,4 +1,4 @@
-import { Clock, Award, Shield, Tool, Truck, CreditCard } from "lucide-react";
+import { Clock, Award, Shield, Wrench, Truck, CreditCard } from "lucide-react";
 
 const advantages = [
   {
@@ -17,7 +17,7 @@ const advantages = [
     description: "Предоставляем долгосрочную гарантию на все виды выполненных работ"
   },
   {
-    icon: <Tool className="h-10 w-10 text-fundam-yellow" />,
+    icon: <Wrench className="h-10 w-10 text-fundam-yellow" />,
     title: "Современное оборудование",
     description: "Используем профессиональную технику и качественные материалы"
   },
